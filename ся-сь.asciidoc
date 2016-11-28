@@ -1,0 +1,101 @@
+Питання: коли використовувати постфікс "ся", а коли "сь".
+
+Рішення: робити так, як в Абабагаламаги.
+
+==== hedrok
+
+Мій метод (я під Linux):
+
+0. Хай ми все робимо в директорії `$root'.
+
+1. Беремо всі можливі словоформи з ВеСУМ:
+
+-----
+cd $root;
+git clone https://github.com/brown-uk/dict_uk
+cd dict_uk
+./gradlew expand
+-----
+
+Тепер в нас має зʼявитися файл `$root/dict_uk/out/dict_corp_lt.txt',
+кожен рядок якого містить словоформу в першому стовпчику.
+
+2. Отримуємо файл зі словоформами, для яких є паралельні форми на сь/ся:
+
+----
+cd $root;
+# Залишаємо лише перший стовпчик:
+awk '{print $1}' $root/dict_uk/out/dict_corp_lt.txt | sort | uniq > list-all.txt;
+# Прибираємо всі словоформи, що не закінчуються на сь/ся
+grep -e 'сь$' -e 'ся$' list-all.txt > list-s-sja.txt
+# Прибираємо останню літеру (ь або я)
+sed -i 's/[ья]$//' list-s-sja.txt
+# Підраховуємо кількість однакових
+uniq -c list-s-sja.txt > list-s-sja-with-count.txt
+# Тепер 2 стоїть перед тими словоформами, що мають паралельні форми
+# на сь/ся:
+awk '/2 / {print $2}' list-s-sja-with-count.txt > result.txt
+----
+
+Після цього в нас є список усіх слів, що можуть завершуватися на сь/ся
+у файлі result.txt (тільки вони без останньої літери).
+
+3. Підготуємо тексти. Прибираємо все, крім літер, апострофу, пробілів та
+знаків пунктуації.
+
+----
+export texts=/path/Harr*.fb2
+cd $root
+# Зливаємо всі тексти в один файл
+cat $texts > input.txt;
+# Хай який там апостроф, у result.txt використовується '
+sed -i "s/[ʼ’]/'/g" input.txt;
+# Тире й трикрапки замінюємо на ascii символи:
+sed -i 's/—/-/g' input.txt;
+sed -i 's/…/.../g' input.txt;
+# Залишаємо лише слова зі знаками пунктуації, що нас цікавлсять.
+grep -o -e "[абвгґдеєжзиіїйклмнопрстуфхцчшщьюяАБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ]\([абвгґдеєжзиіїйклмнопрстуфхцчшщьюяАБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ'-]*[абвгґдеєжзиіїйклмнопрстуфхцчшщьюяАБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ]\)\?" -e "[.\!?,:-]\+" input.txt > input-clean.txt
+awk '{printf $0 " ";}' input-clean.txt > input-clean-oneline.txt
+----
+
+4. Підраховуємо кількість зустрічей цих слів з сь/ся перед
+голосними/приголосними/знаками пунктуації:
+
+----
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+import commands
+
+patterns = ['[аеиіоу]', '[бвгґджзйклмнпрстфхцчшщь]', '[єїюя]', '[.\!?]', '[,:-]']
+letters = ['ь', 'я'];
+counters = {}
+for p in patterns:
+    counters[p] = {}
+    for l in letters:
+        counters[p][l] = 0.;
+
+with open('result.txt') as f:
+    for w in f:
+        w = w.strip()
+        c = 'grep "' + w + '" input-clean-oneline.txt | wc -l'
+        (ignore, result) = commands.getstatusoutput(c)
+        if int(result) == 0:
+            continue
+        for l in letters:
+            for p in patterns:
+                c = 'grep -o -e "' + w + l + ' ' + p + '" input-clean-oneline.txt | wc -l'
+                (ignore, result) = commands.getstatusoutput(c)
+                counters[p][l] += int(result)
+
+print("pattern: ь; я;")
+for p in patterns:
+    s = p + ":"
+    for l in letters:
+        s += " " + str(counters[p][l]) + ";"
+    print(s)
+----
+
+5. Результат:
+
+Чекаємо )
