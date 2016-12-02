@@ -1,0 +1,46 @@
+=== Власні імена 
+
+[width="80%",cols="5,5,10",options="header"]
+|=========================================================
+|Оригінал |Переклад |Додатково
+
+|Draco Malfoy |Драко Мелфой |
+
+|Dudley Dursley |Дадлі Дурслі |
+
+|Eliezer Yudkowsky |Елізер Юдковскі |
+
+|Griphook |Ґрипхук |
+
+|Harry James Potter-Evans-Verres |Гаррі Джеймс Поттер-Еванс-Веррес |
+
+|He-Who-Must-Not-Be-Named |Той-Кого-Не-Можна-Називати |
+
+|J. K. Rowling |Дж. К. Ролінґ |
+
+|Lily Evans |Лілі Еванс |
+
+|Lucius Malfoy |Луціус Мелфой |
+
+|madam Pomfrey |мадам Помфрі |
+
+|Michael Verres-Evans |Майкл Веррес-Еванс |
+
+|Minerva McGonagall |Мінерва Макґонеґел |
+professor McGonagall - професорка Макґонеґел
+
+|Mrs. Figg |місіс Фіґ |
+
+|Petunia Evans-Verres |Петунія Еванс-Веррес |
+
+|Quirinus Quirrell |Квірін Квірел |
+
+|Vernon Dursley |Вернон Дурслі |
+
+|Voldemort |Волдеморт |
+
+|Yermy Wibble |Єрмі Вібл |
+
+|You-Know-Who |Відомо-Хто |
+
+|=========================================================

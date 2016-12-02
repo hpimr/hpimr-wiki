@@ -1,0 +1,33 @@
+=== Наукові терміни, назви книг і дослідів
+
+[width="80%",cols="7,7,10",options="header"]
+|=========================================================
+|Оригінал |Переклад |Додатково
+
+|arbitrage |валютний арбітраж |arbitraging away - ???
+
+|bystander effect |ефект свідка |
+
+|Conservation of Energy |закон збереження енергії |
+
+|diffusion of responsibility |дифузія відповідальності |
+
+|Fermi Calculation |розрахунок Фермі |
+
+|Feynman Lectures on Physics |Фейнманівські лекції з фізики |
+
+|fiscal prudence |фінансова обачність |
+
+|fluctuating trading range |мінливий діапазон ціни |
+
+|FTL signalling |сигнали, швидші за світло |
+
+|impulse control |самоконтроль |
+
+|Latane and Darley's experiment |експеримент Латане і Дарлі |
+
+|market inefficiencies |неефективність ринку |
+
+|unitarity |унітарність |
+
+|=========================================================

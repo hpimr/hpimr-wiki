@@ -1,0 +1,35 @@
+=== Магічні терміни
+
+[width="80%",cols="7,7,10",options="header"]
+|=========================================================
+|Оригінал |Переклад |Додатково
+
+|Animagus transformation |перевтілення анімага |
+
+|Bounce Boots |Стрибучі Чоботи |
+
+|Death Eater |смертежер |
+
+|Defence Against the Dark Arts |захист від темних мистецтв |
+
+|Galleon |ґалеон |
+
+|goblin |ґоблін |
+
+|Killing Curse |смертельне закляття |
+
+|Knut |кнат |
+
+|mokeskin pouch |капшучок з мокової шкіри |
+
+|Retrieval Charm |виймальні чари |
+
+|Sickle |серпик |
+
+|Transfiguration |трансфігурація |
+
+|Undetectable Extension Charm |невиявні чари подовження |
+
+|Wingardium Leviosa |Вінґардіум Левіоза |
+
+|=========================================================
