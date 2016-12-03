@@ -29,11 +29,17 @@
 |Minerva McGonagall |Мінерва Макґонеґел |
 professor McGonagall - професорка Макґонеґел
 
+|Mr. Vincent Crabbe |містер Вінсент Креб |
+
+|Mr. Goyle |містер Ґреґорі Ґойл |
+
 |Mrs. Figg |місіс Фіґ |
 
 |Petunia Evans-Verres |Петунія Еванс-Веррес |
 
 |Quirinus Quirrell |Квірін Квірел |
+
+|Severus Snape |Северус Снейп |
 
 |Vernon Dursley |Вернон Дурслі |
 
