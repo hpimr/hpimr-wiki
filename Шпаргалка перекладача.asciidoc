@@ -1,16 +1,30 @@
-=== Магічні терміни
+=== Шпаргалка перекладача
 
 [width="80%",cols="7,7,10",options="header"]
 |=========================================================
 |Оригінал |Переклад |Додатково
 
+|Advanced Dungeons & Dragons |-- |не перекладаємо
 |Animagus transformation |перевтілення анімага |
+|Arbitrage |валютний арбітраж |arbitraging away - ???
 |Avada Kedavra |Авада Кедавра |переклад Абабагаламага 
+|Bag of Holding |Бездонна Сумка|
 |Bigbam's Brilliant Books |Видатні книжки Біґбема |
 |Bounce Boots |Стрибучі Чоботи |
+|Bystander effect |ефект свідка |
+|Conservation of Energy |закон збереження енергії |
+|Crack of Doom |трубний глас |
 |Death Eater |смертежер |переклад Абабагаламага 
 |Defence Against the Dark Arts |захист від темних мистецтв | переклад Абабагаламага 
+|Diffusion of responsibility |дифузія відповідальності |
+|FTL signalling |сигнали, швидші за світло |
+|Fermi Calculation |розрахунок Фермі |
+|Feynman Lectures on Physics |Фейнманівські лекції з фізики |
+|Fiscal prudence |фінансова обачність |
+|Flubber |Летума |
+|Fluctuating trading range |мінливий діапазон ціни |
 |Galleon |ґалеон |переклад Абабагаламага 
+|Goblin |ґоблін |переклад Абабагаламага 
 |Godric's Hollow |Ґодрикова Долина |переклад Абабагаламага 
 |Great Hall |Велика Зала |переклад Абабагаламага
 |Gringotts |Ґрінґотс | завжди в лапках; переклад Абабагаламага 
@@ -18,18 +32,29 @@
 |Hogwarts School of Witchcraft and Wizardry |Гоґвортська школа чарів і чаклунства | переклад Абабагаламага 
 |Hogwarts |Гоґвортс |переклад Абабагаламага 
 |House points |очки |переклад Абабагаламага 
+|Impulse control |самоконтроль |
 |Killing Curse |смертельне закляття |переклад Абабагаламага 
 |Knut |кнат |переклад Абабагаламага 
+|Latane and Darley's experiment |експеримент Латане і Дарлі |
 |Leaky Cauldron |Дірявий казан |переклад Абабагаламага 
+|March of Reason, The |Поступ Розуму |
+|Market inefficiencies |неефективність ринку |
 |Mokeskin pouch |капшучок з мокової шкіри |
 |Most Noble And Ancient House |Шляхетний і Найдавніший Рід |
+|My beloved son |Мій любий сину |
 |Protego |Протеґо |переклад Абабагаламага 
 |Ravenclaw |Рейвенклов |переклад Абабагаламага 
+|Repeater screen |екран-ретранслятор |
 |Retrieval Charm |виймальні чари |
 |Sickle |серпик |переклад Абабагаламага 
+|To choke up |-- |заміняємо поточною емоцією
+|To swallow |проковтнути слину |
 |Transfiguration |трансфігурація |переклад Абабагаламага 
+|Trunk |валіза |
 |Undetectable Extension Charm |невиявні чари подовження |
+|Unitarity |унітарність |
+|Vault |сховище |
 |Wingardium Leviosa |Вінґардіум Левіоза |переклад Абабагаламага 
-|goblin |ґоблін |переклад Абабагаламага 
+|Witch-lady |пані відьма |
 
 |=========================================================
