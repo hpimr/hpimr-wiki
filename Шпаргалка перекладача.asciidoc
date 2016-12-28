@@ -7,8 +7,13 @@
 |Advanced Dungeons & Dragons |Просунуті Підземелля і Дракони |
 |Animagus transformation |перевтілення анімага |
 |Arbitrage |валютний арбітраж |arbitraging away - ???
+|Arithmancy |Числомагія |переклад Абабагаламага 
 |Avada Kedavra |Авада Кедавра |переклад Абабагаламага 
-|Bag of Holding |Бездонна Сумка|
+|Azkaban |Азкабан |переклад Абабагаламага 
+|Baconian experimental method |Беконівський експериментальний метод |
+|Bafflesnaffle Counter |Засіб від бафлснафлів |
+|Bag of Holding |Бездонна Сумка |
+|Bayes’s Theorem |теорема Баєса |
 |Bigbam's Brilliant Books |Видатні книжки Біґбема |
 |Bounce Boots |Стрибучі Чоботи |
 |Bystander effect |ефект свідка |
@@ -17,20 +22,29 @@
 |Conservation of Energy |закон збереження енергії |
 |Crack of Doom |трубний глас |
 |Death Eater |смертежер |переклад Абабагаламага 
-|Defence Against the Dark Arts |захист від темних мистецтв | переклад Абабагаламага 
+|Defence Against the Dark Arts |захист від темних мистецтв |переклад Абабагаламага 
+|developmental psychology of linguistics |вікова психолінгвістика |
 |Diffusion of responsibility |дифузія відповідальності |
-|FTL signalling |сигнали, швидші за світло |
+|disclaimer |Відмова від відповідальності |
+|elan vital |елан вітал |
+|emergence |емерджентність |
+|Emergency Healing Pack Plus |Набір цілителя для надзвичайних ситуацій плюс |
+|Feather-Falling Potion |зілля пір’ячкового падіння |
 |Fermi Calculation |розрахунок Фермі |
 |Feynman Lectures on Physics |Фейнманівські лекції з фізики |
 |Fiscal prudence |фінансова обачність |
+|Flourish and Blotts |Флоріш і Блотс |переклад Абабагаламага 
 |Flubber |Летума |
 |Fluctuating trading range |мінливий діапазон ціни |
+|FTL signalling |сигнали, швидші за світло |
 |Galleon |ґалеон |переклад Абабагаламага 
+|Ghostbusters |Мисливці на привидів |вікіпедія
 |Goblin |ґоблін |переклад Абабагаламага 
 |Godric's Hollow |Ґодрикова Долина |переклад Абабагаламага 
 |Great Hall |Велика Зала |переклад Абабагаламага
 |Gringotts |Ґрінґотс | завжди в лапках; переклад Абабагаламага 
 |Gryffindor |Ґрифіндор |переклад Абабагаламага 
+|Gillyweed |зяброрості |переклад Абабагаламага 
 |Herbology |Гербалогія | переклад Абабагаламага 
 |Hogwarts School of Witchcraft and Wizardry |Гоґвортська школа чарів і чаклунства | переклад Абабагаламага 
 |Hogwarts |Гоґвортс |переклад Абабагаламага 
@@ -48,23 +62,35 @@
 |Mokeskin pouch |капшучок з мокової шкіри |
 |Most Noble And Ancient House |Шляхетний і Найдавніший Рід |
 |Muggle |маґл |переклад Абабагаламага 
+|Muggleborn |маґлівського роду |переклад Абабагаламага; можливі виключення там, де це недоречно
 |My beloved son |Мій любий сину |
 |Obfuscation |затьмарення |
+|Obliviation |забуттятус |переклад Абабагаламага 
+|Oh, dear. |От лихо! |Star Wars 1+1
+|omake |омаке |транслітерація японського слова
 |Protego |Протеґо |переклад Абабагаламага 
+|Quietus |Квіетус |переклад Абабагаламага 
 |Quotes Quill|самописне перо |переклад Абабагаламага
 |Ravenclaw |Рейвенклов |переклад Абабагаламага 
 |Repeater screen |екран-ретранслятор |
 |Retrieval Charm |виймальні чари |
 |Sickle |серпик |переклад Абабагаламага 
+|Silencio |Сіленціо |переклад Абабагаламага 
 |Slytherin |Слизерин |переклад Абабагаламага 
+|Sorting Hat |Сортувальний Капелюх |переклад Абабагаламага 
+|statistical significance |статистична значущість |
 |To choke up |-- |заміняємо поточною емоцією
 |To swallow |проковтнути слину |
 |Transfiguration |трансфігурація |переклад Абабагаламага 
-|Trunk |валіза |
+|trunk |валіза |
+|twinkling eyes |мерехтливий погляд |переклад Абабагаламага
+|underage magic |неповнолітня магія |переклад Абабагаламага: неповнолітнє чаклунство
 |Undetectable Extension Charm |невиявні чари подовження |
 |Unitarity |унітарність |
 |Vault |сховище |
+|widening lip |розширюване горлечко |
 |Wingardium Leviosa |Вінґардіум Левіоза |переклад Абабагаламага 
 |witch-lady |пані відьма |
+|wizarding world |чаклунський світ |переклад Абабагаламага 
 
 |=========================================================
