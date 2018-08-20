@@ -1,96 +1,96 @@
 === План
 
 О = Ольга Бєлова
+
 К = Яценко Кирило
+
 Е = Ельвіра Ізмаілова
 
-|===
-20.08.2018 (98159)
-О 60675 Chapter 74. SA, Escalation of Conflicts, Pt 9
-Е 37484 Chapter 75. Self Actualization Final, Responsibility
+* 20.08.2018 (98159)
+** О 60675 Chapter 74. SA, Escalation of Conflicts, Pt 9
+** Е 37484 Chapter 75. Self Actualization Final, Responsibility
 
-03.09.2018 (83233)
-Е 17719 Chapter 76. Interlude with the Confessor: Sunk Costs
-О 65514 Chapter 77. SA, Aftermaths: Surface Appearances
+* 03.09.2018 (83233)
+** Е 17719 Chapter 76. Interlude with the Confessor: Sunk Costs
+** О 65514 Chapter 77. SA, Aftermaths: Surface Appearances
 
-17.09.2018 (99369)
-К 99369 Chapter 78. Taboo Tradeoffs Prelude: Cheating
+* 17.09.2018 (99369)
+** К 99369 Chapter 78. Taboo Tradeoffs Prelude: Cheating
 
-01.10.2018 (86269)
-50010 Chapter 79. Taboo Tradeoffs, Pt 1
-36259 Chapter 80. Taboo Tradeoffs, Pt 2, The Horns Effect
+* 01.10.2018 (86269)
+** 50010 Chapter 79. Taboo Tradeoffs, Pt 1
+** 36259 Chapter 80. Taboo Tradeoffs, Pt 2, The Horns Effect
 
-15.10.2018 (57612)
-33541 Chapter 81. Taboo Tradeoffs, Pt 3
-24071 Chapter 82. Taboo Tradeoffs, Final
+* 15.10.2018 (57612)
+** 33541 Chapter 81. Taboo Tradeoffs, Pt 3
+** 24071 Chapter 82. Taboo Tradeoffs, Final
 
-29.10.2018 (106973)
-4015 Chapter 83. Taboo Tradeoffs, Aftermath 1
-65607 Chapter 84. Taboo Tradeoffs, Aftermath 2
-37351 Chapter 85. Taboo Tradeoffs, Aftermath 3, Distance
+* 29.10.2018 (106973)
+** 4015 Chapter 83. Taboo Tradeoffs, Aftermath 1
+** 65607 Chapter 84. Taboo Tradeoffs, Aftermath 2
+** 37351 Chapter 85. Taboo Tradeoffs, Aftermath 3, Distance
 
-12.1.2018 (130364)
-130364 Chapter 86. Multiple Hypothesis Testing
+* 12.1.2018 (130364)
+** 130364 Chapter 86. Multiple Hypothesis Testing
 
-26.11.2018 (76200)
-38630 Chapter 87. Hedonic Awareness
-37570 Chapter 88. Time Pressure, Pt 1
+* 26.11.2018 (76200)
+** 38630 Chapter 87. Hedonic Awareness
+** 37570 Chapter 88. Time Pressure, Pt 1
 
-10.12.2018 (92245)
-17364 Chapter 89. Time Pressure, Pt 2
-33889 Chapter 90. Roles, Pt 1
-27478 Chapter 91. Roles, Pt 2
-13514 Chapter 92. Roles, Pt 3
+* 10.12.2018 (92245)
+** 17364 Chapter 89. Time Pressure, Pt 2
+** 33889 Chapter 90. Roles, Pt 1
+** 27478 Chapter 91. Roles, Pt 2
+** 13514 Chapter 92. Roles, Pt 3
 
-24.12.2018 (92357)
-22060 Chapter 93. Roles, Pt 4
-23197 Chapter 94. Roles, Pt 5
-26096 Chapter 95. Roles, Pt 6
-21004 Chapter 96. Roles, Pt 7
+* 24.12.2018 (92357)
+** 22060 Chapter 93. Roles, Pt 4
+** 23197 Chapter 94. Roles, Pt 5
+** 26096 Chapter 95. Roles, Pt 6
+** 21004 Chapter 96. Roles, Pt 7
 
-07.01.2019 (58688)
-40026 Chapter 97. Roles, Pt 8
-18545 Chapter 98. Roles, Final
-117 Chapter 99. Roles, Aftermath
+* 07.01.2019 (58688)
+** 40026 Chapter 97. Roles, Pt 8
+** 18545 Chapter 98. Roles, Final
+** 117 Chapter 99. Roles, Aftermath
 
-21.01.2019 (79734)
-36334 Chapter 100. Precautionary Measures, Pt 1
-18204 Chapter 101. Precautionary Measures, Pt 2
-25196 Chapter 102. Caring
+* 21.01.2019 (79734)
+** 36334 Chapter 100. Precautionary Measures, Pt 1
+** 18204 Chapter 101. Precautionary Measures, Pt 2
+** 25196 Chapter 102. Caring
 
-04.02.2019 (77315)
-15020 Chapter 103. Tests
-62295 Chapter 104. The Truth, Pt 1, Riddles and Answers
+* 04.02.2019 (77315)
+** 15020 Chapter 103. Tests
+** 62295 Chapter 104. The Truth, Pt 1, Riddles and Answers
 
-18.02.2019 (56144)
-19624 Chapter 105. The Truth, Pt 2
-9391 Chapter 106. The Truth, Pt 3
-27129 Chapter 107. The Truth, Pt 4
+* 18.02.2019 (56144)
+** 19624 Chapter 105. The Truth, Pt 2
+** 9391 Chapter 106. The Truth, Pt 3
+** 27129 Chapter 107. The Truth, Pt 4
 
-04.03.2019 (90466)
-90466 Chapter 108. The Truth, Pt 5, Answers and Riddles
+* 04.03.2019 (90466)
+** 90466 Chapter 108. The Truth, Pt 5, Answers and Riddles
 
-18.03.2019 (46089)
-33582 Chapter 109. Reflections
-12507 Chapter 110. Reflections, Pt 2
+* 18.03.2019 (46089)
+** 33582 Chapter 109. Reflections
+** 12507 Chapter 110. Reflections, Pt 2
 
-01.04.2019 (84600)
-52329 Chapter 111. Failure, Pt 1
-8449 Chapter 112. Failure, Pt 2
-23822 Chapter 113. Final Exam
+* 01.04.2019 (84600)
+** 52329 Chapter 111. Failure, Pt 1
+** 8449 Chapter 112. Failure, Pt 2
+** 23822 Chapter 113. Final Exam
 
-15.04.2019 (70572)
-12857 Chapter 114. Shut Up and Do The Impossible
-20472 Chapter 115. Shut Up and Do The Impossible, Pt 2
-13884 Chapter 116. Aftermath, Something to Protect, Pt 0
-14256 Chapter 117. Something to Protect: Minerva McGonagall
-9103 Chapter 118. Something to Protect: Professor Quirrell
+* 15.04.2019 (70572)
+** 12857 Chapter 114. Shut Up and Do The Impossible
+** 20472 Chapter 115. Shut Up and Do The Impossible, Pt 2
+** 13884 Chapter 116. Aftermath, Something to Protect, Pt 0
+** 14256 Chapter 117. Something to Protect: Minerva McGonagall
+** 9103 Chapter 118. Something to Protect: Professor Quirrell
 
-29.04.2019 (77229)
-61531 Chapter 119. Something to Protect: Albus Dumbledore
-15698 Chapter 120. Something to Protect: Draco Malfoy
+* 29.04.2019 (77229)
+** 61531 Chapter 119. Something to Protect: Albus Dumbledore
+** 15698 Chapter 120. Something to Protect: Draco Malfoy
 
-13.05.2019 (84209)
-8740 Chapter 121. Something to Protect: Severus Snape
-75469 Chapter 122. Something to Protect: Hermione Granger
-|===
+* 13.05.2019 (84209)
+** 8740 Chapter 121. Something to Protect: Severus Snape
+** 75469 Chapter 122. Something to Protect: Hermione Granger
