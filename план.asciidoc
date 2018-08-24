@@ -22,8 +22,8 @@
 ** 36259 Chapter 80. Taboo Tradeoffs, Pt 2, The Horns Effect
 
 * 15.10.2018 (57612)
-** 33541 Chapter 81. Taboo Tradeoffs, Pt 3
-** 24071 Chapter 82. Taboo Tradeoffs, Final
+** Е 33541 Chapter 81. Taboo Tradeoffs, Pt 3
+** Е 24071 Chapter 82. Taboo Tradeoffs, Final
 
 * 29.10.2018 (106973)
 ** 4015 Chapter 83. Taboo Tradeoffs, Aftermath 1
