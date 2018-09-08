@@ -18,8 +18,8 @@
 ** К 99369 Chapter 78. Taboo Tradeoffs Prelude: Cheating
 
 * 01.10.2018 (86269)
-** 50010 Chapter 79. Taboo Tradeoffs, Pt 1
-** 36259 Chapter 80. Taboo Tradeoffs, Pt 2, The Horns Effect
+** О 50010 Chapter 79. Taboo Tradeoffs, Pt 1
+** К 36259 Chapter 80. Taboo Tradeoffs, Pt 2, The Horns Effect
 
 * 15.10.2018 (57612)
 ** Е 33541 Chapter 81. Taboo Tradeoffs, Pt 3
