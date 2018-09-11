@@ -6,6 +6,8 @@
 
 Е = Ельвіра Ізмаілова
 
+Д = Дмитро Кабакчей
+
 * 20.08.2018 (98159)
 ** О 60675 Chapter 74. SA, Escalation of Conflicts, Pt 9
 ** Е 37484 Chapter 75. Self Actualization Final, Responsibility
@@ -26,7 +28,7 @@
 ** Е 24071 Chapter 82. Taboo Tradeoffs, Final
 
 * 29.10.2018 (106973)
-** 4015 Chapter 83. Taboo Tradeoffs, Aftermath 1
+** Д 4015 Chapter 83. Taboo Tradeoffs, Aftermath 1
 ** 65607 Chapter 84. Taboo Tradeoffs, Aftermath 2
 ** 37351 Chapter 85. Taboo Tradeoffs, Aftermath 3, Distance
 
